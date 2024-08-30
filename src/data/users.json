@@ -1,0 +1,20 @@
+{
+    "db_users": [
+      {
+        "team_name": "ABC",
+        "roll_number": 2310990000,
+        "email": "ACM_111@chitkara.edu.in",
+        "password": "ACM_111",
+        "contact": "9876543210"
+      },
+      {
+        "team_name": "DEF",
+        "roll_number": 2310990000,
+        "email": "ACM_222@chitkara.edu.in",
+        "password": "ACM_222",
+        "contact": "9876543211"
+      }
+      
+    ]
+  }
+  
